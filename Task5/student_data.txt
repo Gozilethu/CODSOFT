@@ -1,0 +1,8 @@
+Student ID: 12345
+Name: ertyui
+Surname: Mbutho
+Grade: D7
+Age: 12
+Gender: Male
+Date: 2024-06-26
+
